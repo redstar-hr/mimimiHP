@@ -1,0 +1,12 @@
+#left_X {
+	box-sizing: border-box;
+	top: 50px;
+	height: 100%;
+	width: 220px;
+	position: fixed;
+	left: 0;
+	top: 500px;
+	overflow: auto;
+	background: #eee;
+	padding: 20px;
+  }
